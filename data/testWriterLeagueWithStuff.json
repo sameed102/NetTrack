@@ -1,0 +1,15 @@
+{"teams": [{
+    "roster": [{
+        "number": 30,
+        "name": "Steph",
+        "statLine": {
+            "rebounds": 2,
+            "assists": 3,
+            "blocks": 0,
+            "turnovers": 4,
+            "steals": 1,
+            "points": 12
+        }
+    }],
+    "name": "Warriors"
+}]}
